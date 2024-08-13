@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.card-title {
+    font-size: 18px;
+    font-weight: 400;
+    color: #484848 ;
+    line-height: 1.35rem;
+    height: 34px;
+    margin-bottom:20px;
+}
+.description {
+    font-size: 15px;
+    height:35px;
+}
+.product-price  {
+    font-weight:700;
+    font-size:17px;
+}
+a {
+    color: #177042;
+}
+    a:hover {
+        color: #177042;
+    }
+.btn-primary {
+    background-color: #a1886a;
+    border-color: #a1886a;
+}
+    .btn-primary:hover {
+        background-color: #765738;
+        border-color: #a1886a;
+    }
+.card {
+    border-radius: 15px;
+}
+.card-img, .card-img-top {
+    border-radius: 8px;
+}
+#write-review {
+    margin-left: -45px;
+}
+
+#product-price {
+    font-size: 26px;
+}
+.jumbotron {
+    
+}
+.custom-svg {
+  width: 100%; /* İstediğiniz genişlik değerini buraya girin */
+  height: auto; /* Yükseklik otomatik olarak ayarlanır */
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+.footer {
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+#product-details h1 {
+    font-size:30px;
+    font-weight:600;
+}
+.list-group-item.active {
+    background-color: #80ca9f !important;
+    border-color: #80ca9f !important;
+}
+.list-group-item {
+    border-radius:10px;
+}
+.table .tr {
+    background-color:red;
+}

@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "Completed";
+}
+
+<div class="order-body">
+    <title>Sipariş Tamamlandı</title>
+    <div class="success-container">
+        <div class="icon-container">
+            <i class="checkmark">&#10004;</i>
+        </div>
+        <h1>Tebrikler !</h1>
+        <p>Siparişiniz başarılı bir şekilde alındı.</p>
+        <p>Ürünleriniz en kısa zamanda kargoya verilecektir.</p>
+        <a href="~/Home/List" class="btn btn-primary">
+            <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=100536&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+         id=100536&amp;format=png 2x" width="14" height="16" alt="Double Left icon" class="loaded pb-1" style="filter: brightness(0) invert(1);">
+            Alışverişe Devam Et
+        </a>
+    </div>
+</div>
+<style>
+    .order-body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .success-container {
+        text-align: center;
+        background-color: #fff;
+        padding: 20px 40px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        width:500px;
+    }
+
+    .icon-container {
+        background-color: #4CAF50;
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto 20px auto;
+    }
+
+    .checkmark {
+        font-size: 30px;
+        color: white;
+    }
+
+    h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    p {
+        font-size: 16px;
+        color: #666;
+        margin: 5px 0;
+    }
+</style>

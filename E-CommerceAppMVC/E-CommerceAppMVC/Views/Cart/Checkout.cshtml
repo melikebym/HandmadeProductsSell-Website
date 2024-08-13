@@ -1,0 +1,86 @@
+﻿@model E_CommerceAppMVC.Models.ShippingDetails
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sipariş Bilgileriniz</h2>
+            <p>Lütfen Bilgilerinizi Doldurunuz</p>
+            <hr />
+            @using (Html.BeginForm())
+            {
+                if (!ViewData.ModelState.IsValid && ViewData.ModelState.Values.Any(x => x.Errors.Count > 0))
+                {
+                    <div class="alert alert-danger" role="alert">
+                        @Html.ValidationSummary()
+                    </div>
+                }
+
+                <div class="row mb-3 mt-5">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Kullanıcı Adı:</label>
+                    <div class="col-sm-6">
+                        <span class="">
+                            @User.Identity.Name
+                        </span>
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Adres Tanımı:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.AdresBasligi, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.AdresBasligi, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Adres:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.Adres, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Adres, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Şehir:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.Sehir, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Sehir, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Semt:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.Semt, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Semt, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Mahalle:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.Mahalle, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.Mahalle, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Posta Kodu:</label>
+                    <div class="col-sm-6">
+                        @Html.TextBoxFor(x => x.PostaKodu, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.PostaKodu, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label"></label>
+                    <div class="col-sm-6">
+                        <button type="submit" class="btn btn-primary">Bilgileri Kaydet</button>
+                    </div>
+                </div>
+
+            }
+
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>

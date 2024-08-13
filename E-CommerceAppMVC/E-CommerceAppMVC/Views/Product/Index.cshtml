@@ -1,0 +1,95 @@
+﻿@model IEnumerable<E_CommerceAppMVC.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container my-5">
+
+    <h2>Ürünler</h2>
+    <hr />
+    <p>
+        @Html.ActionLink("Yeni Ürün", "Create", null, new { @class = "btn btn-primary" })
+    </p>
+    <hr />
+    <table class="table table-bordered table-striped" style="table-layout: fixed;">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsHome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsApproved)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr style="height:100px;">
+                <td>
+                    <img src="~/Upload/@item.Image" width="100%" height="100" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @if (item.IsHome)
+                    {
+                     <label class="badge badge-success">
+                         <img src="~/Upload/check-icon.png" width="14" height="14" alt="Check icon"
+                              style="filter: invert(100%) sepia(4%) saturate(7495%) hue-rotate(292deg) brightness(106%) contrast(102%);" data-v-e5a91372="">
+                         Evet 
+                     </label>
+                                
+                           
+                    }
+                    else
+                    {
+                    <label class="badge badge-danger">
+                        <img src="~/Upload/danger-icon.png" width="14" height="14" alt="Check icon"
+                             style="filter: invert(100%) sepia(4%) saturate(7495%) hue-rotate(292deg) brightness(106%) contrast(102%);" data-v-e5a91372="">
+                        Hayır
+                    </label>
+                    }
+                </td>
+                <td>
+                    @if (item.IsApproved)
+                    {
+                        <label class="badge badge-success">
+                            <img src="~/Upload/check-icon.png" width="14" height="14" alt="Check icon"
+                                 style="filter: invert(100%) sepia(4%) saturate(7495%) hue-rotate(292deg) brightness(106%) contrast(102%);" data-v-e5a91372="">
+                            Var
+                        </label>
+
+
+                    }
+                    else
+                    {
+                        <label class="badge badge-danger">
+                            <img src="~/Upload/danger-icon.png" width="14" height="14" alt="Check icon"
+                                 style="filter: invert(100%) sepia(4%) saturate(7495%) hue-rotate(292deg) brightness(106%) contrast(102%);" data-v-e5a91372="">
+                            Yok
+                        </label>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }) 
+                    @Html.ActionLink("Sil", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>

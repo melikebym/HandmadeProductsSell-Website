@@ -1,0 +1,88 @@
+﻿@model E_CommerceAppMVC.Models.Cart
+
+@{
+    ViewBag.Title = "Index";
+}
+<div id="product-details" class="container py-5">
+    <div class="row">
+
+        <div class="col-md-12">
+            <h2>Alışveriş Sepeti</h2>
+            <hr />
+            @if (Model.CartLines.Count > 0)
+            {
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Ürün Adedi</th>
+                            <th>Ürün İsmi</th>
+                            <th>Ürün Fiyatı</th>
+                            <th>Fiyat</th>
+                            <td></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.CartLines)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="~/Upload/@item.Product.Image" width="50" />
+                                </td>
+                                <td>
+                                    @item.Quantity
+                                </td>
+                                <td>
+                                    @item.Product.Name
+                                </td>
+                                <td>
+                                    @item.Product.Price
+                                </td>
+                                <td>
+                                    @(item.Product.Price * item.Quantity)
+                                </td>
+                                <td>
+                                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                                    {
+                                        @Html.Hidden("Id", item.Product.Id)
+                                        <button type="submit" class="btn btn-danger">
+                                            <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=nerFBdXcYDve&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+                                     id=nerFBdXcYDve&amp;format=png 2x" width="14" height="23" alt="Trash icon" class="loaded pb-1" style="filter: brightness(0) invert(1);">
+                                            Ürünü Sil
+                                        </button>
+                                    }
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="5"></td>
+                            <td>
+                                @Model.Total().ToString("c")
+                            </td>
+                        </tr>
+                    </tfoot>
+
+                </table>
+                <div class="text-center">
+                    <a href="~/Home/List" class="btn btn-primary">
+                        <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=100536&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+                             id=100536&amp;format=png 2x" width="14" height="16" alt="Double Left icon" class="loaded pb-1" style="filter: brightness(0) invert(1);">
+                        Alışverişe Devam Et</a>
+                    <a href="~/Cart/Checkout" class="btn btn-primary">
+                        <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=83977&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+                             id=83977&amp;format=png 2x" width="14" height="17" alt="Check icon" class="loaded" style="filter: brightness(0) invert(1);">
+                        Alışverişi Tamamla</a>
+                </div>
+             }
+            else
+            {
+                <div class="alert alert-warning" role="alert">
+                    <img src="https://cdn-icons-png.flaticon.com/128/16741/16741218.png" loading="lazy" alt="Exclamation mark " title="Exclamation mark " width="20" height="20">
+                    Sepetinizde Ürün Bulunmamaktadır!
+                </div>
+            }
+        </div>
+    </div>
+</div>

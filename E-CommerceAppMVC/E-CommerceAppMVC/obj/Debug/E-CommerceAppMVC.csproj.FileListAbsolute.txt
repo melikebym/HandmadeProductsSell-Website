@@ -1,0 +1,404 @@
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll.config
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.pdb
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe.config
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.rsp
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe.config
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.rsp
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Console.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe.config
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.rsp
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-Commer.0CCC4900.Up2Date
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.pdb
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Owin.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.xml
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\melik\source\repos\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll.config
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.pdb
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Console.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.AssemblyReference.cache
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-Commer.0CCC4900.Up2Date
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.dll
+C:\Users\melik\OneDrive\Masaüstü\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.pdb
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll.config
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.pdb
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe.config
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.rsp
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe.config
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.rsp
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.AppContext.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Console.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Http.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Sockets.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.ValueTuple.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe.config
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.rsp
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Owin.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Razor.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Helpers.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Mvc.resources.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.AssemblyReference.cache
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.CoreCompileInputs.cache
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-Commer.0CCC4900.Up2Date
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.dll
+D:\staj\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.pdb
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll.config
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\E-CommerceAppMVC.pdb
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csc.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\csi.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Console.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\vbc.rsp
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Owin.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Newtonsoft.Json.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Razor.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Helpers.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\System.Web.Mvc.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Razor.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.AssemblyReference.cache
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-Commer.0CCC4900.Up2Date
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.dll
+C:\Users\melik\OneDrive\Masaüstü\E-Commerce SON HALİ\E-CommerceAppMVC\E-CommerceAppMVC\obj\Debug\E-CommerceAppMVC.pdb

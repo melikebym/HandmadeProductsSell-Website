@@ -1,0 +1,15 @@
+﻿@using E_CommerceAppMVC.Models
+@model IEnumerable<ProductModel>
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<div class="jumbotron" style="background-image: url(/Theme/img/index1.png); background-size: cover; padding-bottom: 320px; ">
+    <div class="container">
+       
+    </div>
+</div>
+<div class="container py-5">
+    @Html.Partial("_ProductList", Model)
+</div>

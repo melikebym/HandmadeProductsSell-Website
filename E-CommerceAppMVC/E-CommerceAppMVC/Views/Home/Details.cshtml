@@ -1,0 +1,106 @@
+﻿@using E_CommerceAppMVC.Entity;
+@model Product 
+
+
+
+@{
+    ViewBag.Title = "Details";
+}
+<div id="product-details" class="container py-5">
+    <div class="row">
+
+        <div class="col-md-6">
+            <img src="~/Upload/@Model.Image" class="img-fluid rounded  w-100">
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>@Model.Name</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    @if (Model.IsApproved)
+                    {
+                        <span class="badge badge-primary">Stokta</span>
+
+                    }
+                    else
+                    {
+                        <span class="badge badge-danger">Stokta Yok</span>
+
+                    }
+                    <span class="product-number">#4563218</span>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col-md-12">
+                    <div id="description">
+                        @Model.Description
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-4">
+                    <img src="https://cdn-icons-png.flaticon.com/128/149/149763.png" loading="lazy" alt="Star " title="Star " width="14" height="14">
+                    <img src="https://cdn-icons-png.flaticon.com/128/149/149763.png" loading="lazy" alt="Star " title="Star " width="14" height="14">
+                    <img src="https://cdn-icons-png.flaticon.com/128/149/149763.png" loading="lazy" alt="Star " title="Star " width="14" height="14">
+                    <img src="https://cdn-icons-png.flaticon.com/128/149/149763.png" loading="lazy" alt="Star " title="Star " width="14" height="14">
+                    <img src="https://cdn-icons-png.flaticon.com/128/149/149763.png" loading="lazy" alt="Star " title="Star " width="14" height="14">
+                    <span class="badge badge-success">33</span>
+                </div>
+                <div id="write-review"
+                     class="col-md-4">
+                    <a href="#">
+                        Write a review
+                    </a>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12">
+                    <h4 id="product-price">@Model.Price TL</h4>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="col-md-12">
+
+                    @using (Html.BeginForm("AddToCart", "Cart"))
+                    {
+                        @Html.HiddenFor(i => i.Id);
+                        <button type="submit" class="btn btn-success">
+                        <img src="https://cdn-icons-png.flaticon.com/128/428/428173.png" loading="lazy" alt="Shopping cart " title="Shopping cart " width="14" height="14">
+                        Sepete Ekle
+                        </button>
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-md-12">
+            <div class="bd-example bd-example-tabs">
+                <nav>
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <button class="nav-link active" id="nav-description-tab" data-toggle="tab" data-target="#nav-description" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Description</button>
+                        <button class="nav-link" id="nav-payment-tab" data-toggle="tab" data-target="#nav-payment" type="button" role="tab" aria-controls="nav-payment" aria-selected="false">Payment Methods</button>
+                        <button class="nav-link" id="nav-comment-tab" data-toggle="tab" data-target="#nav-comment" type="button" role="tab" aria-controls="nav-comment" aria-selected="false">Reviews</button>
+
+                    </div>
+                </nav>
+                <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="nav-description" role="tabpanel" aria-labelledby="nav-description-tab">
+                        <p>Placeholder content for the tab panel. This one relates to the home tab. Takes you miles high, so high, 'cause she’s got that one international smile. There's a stranger in my bed, there's a pounding in my head. Oh, no. In another life I would make you stay. ‘Cause I, I’m capable of anything. Suiting up for my crowning battle. Used to steal your parents' liquor and climb to the roof. Tone, tan fit and ready, turn it up cause its gettin' heavy. Her love is like a drug. I guess that I forgot I had a choice.</p>
+                    </div>
+                    <div class="tab-pane fade" id="nav-payment" role="tabpanel" aria-labelledby="nav-payment-tab">
+                        <p>Placeholder content for the tab panel. This one relates to the profile tab. You got the finest architecture. Passport stamps, she's cosmopolitan. Fine, fresh, fierce, we got it on lock. Never planned that one day I'd be losing you. She eats your heart out. Your kiss is cosmic, every move is magic. I mean the ones, I mean like she's the one. Greetings loved ones let's take a journey. Just own the night like the 4th of July! But you'd rather get wasted.</p>
+                    </div>
+                    <div class="tab-pane fade" id="nav-comment" role="tabpanel" aria-labelledby="nav-comment-tab">
+                        <p>Placeholder content for the tab panel. This one relates to the contact tab. Her love is like a drug. All my girls vintage Chanel baby. Got a motel and built a fort out of sheets. 'Cause she's the muse and the artist. (This is how we do) So you wanna play with magic. So just be sure before you give it all to me. I'm walking, I'm walking on air (tonight). Skip the talk, heard it all, time to walk the walk. Catch her if you can. Stinging like a bee I earned my stripes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

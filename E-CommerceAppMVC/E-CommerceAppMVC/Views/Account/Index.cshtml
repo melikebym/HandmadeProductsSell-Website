@@ -1,0 +1,59 @@
+﻿@model IEnumerable<E_CommerceAppMVC.Models.UserOrderModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sipariş Bilgileriniz</h2>
+            <hr />
+            <table class="table table-bordered tabe-striped">
+                <thread>
+                    <tr>
+                        <th>Sipariş Numarası</th>
+                        <th>Ürün Tarihi</th>
+                        <th>Toplam Tutar</th>
+                        <th>Sipariş Durumu</th>
+                        <th></th>
+                    </tr>
+                </thread>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.OrderNumber</td>
+                            <td>@item.OrderDate.ToShortDateString()</td>
+                            <td>
+                                <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=26&amp;id=57036&amp;format=png 1x, https://img.icons8.com/?size=52&amp;
+                                id=57036&amp;format=png 2x" width="20" height="20" alt="Lira icon" class="loaded" style="margin-right:-6px; margin-bottom:1px;">
+                            @item.Total</td>
+                            <td>
+                                @if (item.OrderState == E_CommerceAppMVC.Identity.EnumOrderState.Hazırlanıyor)
+                                {
+                                    <span>
+                                         <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=32&amp;id=16153&amp;format=png 1x, https://img.icons8.com/?size=64&amp;
+                                         id=16153&amp;format=png 2x" width="22" height="22" alt="Clock icon" class="loaded">
+                                         @item.OrderState
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span>
+                                        <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=82766&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+                                        id=82766&amp;format=png 2x" width="18" height="18" alt="Tick icon" class="loaded" style="margin-left:3px;">
+                                        @item.OrderState
+                                    </span>
+                                }
+                            </td>
+                            <td>
+                                @Html.ActionLink("Detaylar", "Details", new {id=item.Id}, new {@class="btn btn-primary"})
+                            </td>
+                        </tr>
+                    }
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

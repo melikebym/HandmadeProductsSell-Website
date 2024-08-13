@@ -1,0 +1,35 @@
+﻿@using E_CommerceAppMVC.Models
+@model IEnumerable<ProductModel>
+
+
+@{
+    ViewBag.Title = "List";
+}
+<div class="container py-5">
+    <div class="row">
+
+        <div class="col-md-3">
+           @Html.Action("GetCategories", "Home")
+        </div>
+
+        <div class="col-md-9">
+
+            @if (Model.Count() == 0)
+            {
+                <div class="alert alert-warning" role="alert">
+                    <img src="https://cdn-icons-png.flaticon.com/128/16741/16741218.png" loading="lazy" alt="Exclamation mark " title="Exclamation mark " width="20" height="20">
+                    Aradığınız kategoride ürün bulunamadı.
+                </div>
+            }
+            else
+            {
+            <div class="alert alert-success" role="alert">
+                <img src="https://cdn-icons-png.flaticon.com/128/5610/5610944.png" loading="lazy" alt="Check " title="Check " width="20" height="20">
+                @Model.Count() Adet ürün bulundu.
+            </div>
+            }
+
+            @Html.Partial("_ProductList", Model)
+        </div>
+    </div>
+</div>

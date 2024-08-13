@@ -1,0 +1,36 @@
+﻿@using E_CommerceAppMVC.Models
+@model IEnumerable<ProductModel>
+
+
+<div class="row">
+    @foreach (var urun in Model)
+    {
+        <div class="col-md-4 my-3">
+            <div class="card">
+                <svg class="bd-placeholder-img card-img-top custom-svg" width="100%" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <title>Placeholder</title>
+                    <rect width="100%" height="100%" fill="#6c757d"></rect>
+                    <text x="40%" y="50%" fill="#dee2e6" dy=".3em">Image cap</text>
+                    <image class="image" href="~/Upload/@urun.Image" x="0" y="0" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" alt="@urun.Name" />
+                </svg>
+                <div class="card-body">
+                    <h4 class="card-title pt-2">
+                        <a href="/Home/Details/@urun.Id"> @urun.Name </a>
+                    </h4>
+                    <p class="card-text description">@urun.Description</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted product-price">
+                        <img src="https://cdn-icons-png.flaticon.com/128/7370/7370253.png" data-src="https://cdn-icons-png.flaticon.com/128/7370/7370253.png"
+                         alt="Lira" title="Lira" width="15" height="15" class="lzy lazyload--done mb-1" srcset="https://cdn-icons-png.flaticon.com/128/7370/7370253.png 4x">
+                         @urun.Price
+                    </small>
+                    <a href="/Home/Details/@urun.Id" class="btn btn-primary btn-sm float-right">
+                        <img src="~/Theme/img/arrow.png" loading="lazy" alt="Right " title="Right " width="10" height="10" class="mb-1">
+                        Ürünü İncele
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

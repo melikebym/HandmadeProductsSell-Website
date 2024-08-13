@@ -1,0 +1,39 @@
+﻿@model IEnumerable<E_CommerceAppMVC.Models.AdminOrderModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container pb-5">
+    <h2>Sipairşler</h2>
+    <hr />
+    <table class="table" table-bordered table-striped>
+        <thead>
+            <tr>
+                <td>Sipariş Id</td>
+                <td>Sipariş Numarası</td>
+                <td>Sipariş Bilgileri</td>
+                <td>Sipariş Tarihi</td>
+                <td>Sipariş Adedi</td>
+                <td>Toplam Fiyat</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.OrderNumber</td>
+                    <td>@item.OrderState</td>
+                    <td>@item.OrderDate</td>
+                    <td>@item.Count</td>
+                    <td>@item.Total</td>
+                    <td>
+                        @Html.ActionLink("Detaylar", "Details", new { id = item.Id }, new { @class = "btn btn-primary btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

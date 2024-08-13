@@ -1,0 +1,116 @@
+﻿@model E_CommerceAppMVC.Models.OrderDetailsModel
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Sipariş Detay Bilgileri</h2>
+            <hr />
+
+            @if (TempData["message"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["message"]
+                </div>
+            }
+
+        <dl class="row">
+
+
+            <dt class="col-sm-3">Sipariş Durumu</dt>
+            <dd class="col-sm-9">
+                @using (Html.BeginForm("UpdateOrderState", "Order", FormMethod.Post))
+                {
+                    @Html.HiddenFor(i => i.OrderId)
+
+                    <dl class="row">
+                        <dt class="col-sm-8">
+                            @Html.EnumDropDownListFor(i => i.OrderState, "Ürün Durumu Seç", new { @class = "form-control" })
+                        </dt>
+                        <dd class="col-sm-4">
+                            <button type="submit" class="btn btn-primary btn-sm" style="height:36px; margin-left:-10px;">Durumu Güncelle</button>
+                        </dd>
+                    </dl>
+                }
+
+            </dd>
+
+            <dt class="col-sm-3">Sipariş Adedi</dt>
+            <dd class="col-sm-9">@Model.OrderId</dd>
+
+            <dt class="col-sm-3">Sipariş Numarası</dt>
+            <dd class="col-sm-9">@Model.OrderNumber</dd>
+
+            <dt class="col-sm-3">Toplam</dt>
+            <dd class="col-sm-9">
+                <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=26&amp;id=57036&amp;format=png 1x, https://img.icons8.com/?size=52&amp;
+                         id=57036&amp;format=png 2x" width="20" height="20" alt="Lira icon" class="loaded" style="margin-right:-6px; margin-bottom:1px;">
+                @Model.Total
+            </dd>
+
+            <dt class="col-sm-3">Sipariş Tarihi</dt>
+            <dd class="col-sm-9">@Model.OrderDate</dd>
+
+            <dt class="col-sm-3">Adres</dt>
+            <dd class="col-sm-9">
+                @Model.AdresBasligi
+                <hr />
+                @Model.Adres
+                <br />
+                @Model.Sehir - @Model.Semt - @Model.Mahalle
+                <br />
+                @Model.PostaKodu
+
+            </dd>
+            <dt class="col-sm-3">Ürünler</dt>
+            <dd class="col-sm-9">
+
+                <table class="table" table-bordered>
+
+                    <thead>
+                        <tr>
+                            <th>Görsel</th>
+                            <th>Ürün Adı</th>
+                            <th>Adet</th>
+                            <th>Fiyat</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Orderlines)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="~/Upload/@item.Image" width="100" />
+                                </td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Quantity</td>
+                                <td>
+                                    <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=26&amp;id=57036&amp;format=png 1x, https://img.icons8.com/?size=52&amp;
+                                             id=57036&amp;format=png 2x" width="20" height="20" alt="Lira icon" class="loaded" style="margin-right:-6px; margin-bottom:1px;">
+                                    @item.Price
+                                </td>
+                                <td>
+                                    <a href="~/Home/Details/@item.ProductId" class="btn btn-primary btn-sm" target="_blank">
+                                        <img data-v-e5a91372="" srcset="https://img.icons8.com/?size=24&amp;id=87700&amp;format=png 1x, https://img.icons8.com/?size=48&amp;
+                                                     id=87700&amp;format=png 2x" width="14" height="19" alt="Double Right icon" class="loaded pb-1" style="filter: brightness(0) invert(1);">
+                                        Ürün Detayları
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+            </dd>
+
+        </dl>
+
+
+        </div>
+    </div>
+</div>
+
